@@ -3,7 +3,6 @@ Simple app to manage your group's bills and tips
 
 ## 🛠 Tools/Technologies
 - iOS 17
-- MVVM
 - SwiftUI
 
 ## 📺 Demo
